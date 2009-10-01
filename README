@@ -1,6 +1,10 @@
 
 A basic launcher for Java apps.  Licence is GPLv3 for now.
 
-See the test directory for an example; the launcher will look for the .config file with the same name as itself
-so to get it to pick up the test one you need to rename the executable to test when copying it in.
+See the test directory for an example; the launcher will look for the .config
+file with the same name as itself so to get it to pick up the test one you
+need to rename the executable to test when copying it in.
+
+So far this has been tested (recently) on Mac OS X.  It was originally
+written for Windows but it's unknown as to whether it still works there.
 
